@@ -209,3 +209,8 @@ a {
   font-size: 13px;
   line-height: var(--line-height-lg)
 }
+
+img {
+  width: 100%;
+  height: auto;
+}
